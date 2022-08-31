@@ -1,18 +1,21 @@
 h1 {
     text-align: center;
-  }
-  h2 {
-    text-align: center;
-  }
+}
 
-  p {
+h2 {
     text-align: center;
-  }
+}
 
-  body{
-    background-color:rgb(228, 202, 168);
-  }
-  div{
+p {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(228, 202, 168);
+}
+
+div {
     width: 300px;
-    background-color: orangered;
-  }
+    background-color: rgb(228, 202, 168);
+    
+}
