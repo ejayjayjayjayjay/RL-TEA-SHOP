@@ -25,10 +25,15 @@ body {
   margin-right: auto;
 }
 
-.teaFlavor{
+.teaItem {
+  background-color: red;
+  display: inline-block;
+}
+
+.teaFlavor {
   text-align: left;
 }
 
-.teaPrice{
+.teaPrice {
   text-align: right;
 }
