@@ -15,6 +15,7 @@ body {
   background-image: url(../Images/pexels-nikolay-osmachko-230477.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  font-family: 'Roboto', sans-serif;
 }
 
 .teaMenu {
