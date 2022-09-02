@@ -32,6 +32,8 @@ body {
 .teaItem p{
   /* background-color: red; */
   display: inline-block;
+  font-weight: 400;
+  
 }
 
 .teaFlavor,.teaCollection {
