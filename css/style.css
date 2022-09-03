@@ -1,6 +1,7 @@
 h1 {
   text-align: center;
   font-size: 40px;
+  margin: 0px;
 }
 
 h2 {
@@ -64,7 +65,7 @@ hr {
 
 .teaFlavor,
 .teaCollection {
-  background-color: red;
+  /* background-color: red; */
   text-align: left;
   width: 75%;
 
@@ -72,7 +73,7 @@ hr {
 
 .teaPrice,
 .collectionPrice {
-  background-color: blue;
+  /* background-color: blue; */
   text-align: right;
   width: 25%;
 }
@@ -80,6 +81,14 @@ hr {
 .established {
   font-style: italic;
 }
+
+img{
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  display: block;
+  margin-top: -25px;
+  
 
 /* Footer for the header section */
 
@@ -91,19 +100,19 @@ a{
   color: black;
 }
 
-/*  */
+/* pseudo class  */
 a:link{
   color: green;
 }
-/* psuedo class visited (pag na visit mo na yung link) */
+/* pseudo class visited (pag na visit mo na yung link) */
 a:visited{
   color: #fff;
 }
-/* psuedo class hover (pag tinapat mo cursor mo sa link) */
+/* pseudo class hover (pag tinapat mo cursor mo sa link) */
 a:hover{
   color: lightgrey;
 }
-/* psuedo class active (pag cnlick mo na yung link) */
+/* pseudo class active (pag cnlick mo na yung link) */
 a:active{
   color: yellow;
 }
