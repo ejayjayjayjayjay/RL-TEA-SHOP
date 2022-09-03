@@ -19,6 +19,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   font-family: 'Roboto', sans-serif;
+  padding: 20px;
 }
 
 hr {
