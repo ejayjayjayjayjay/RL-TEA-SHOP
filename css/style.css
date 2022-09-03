@@ -90,3 +90,20 @@ footer{
 a{
   color: black;
 }
+
+/*  */
+a:link{
+  color: green;
+}
+/* psuedo class visited (pag na visit mo na yung link) */
+a:visited{
+  color: #fff;
+}
+/* psuedo class hover (pag tinapat mo cursor mo sa link) */
+a:hover{
+  color: lightgrey;
+}
+/* psuedo class active (pag cnlick mo na yung link) */
+a:active{
+  color: yellow;
+}
