@@ -80,3 +80,9 @@ hr {
 .established {
   font-style: italic;
 }
+
+/* Footer for the header section */
+
+footer{
+  font-size: 14px;
+}
